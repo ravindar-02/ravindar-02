@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ravindar Singh
-- 👀 I’m interested in Rust and Blockchain development
+- 👀 I’m interested in Rust,Nodejs and Blockchain development
 - 🌱 I’m currently learning Nodejs
 - 💞️ I’m looking to collaborate on Backend development (rust and Nodejs)
 - 📫 How to reach me 8368272554
